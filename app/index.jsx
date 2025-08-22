@@ -20,7 +20,8 @@ const Home = () => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    alignItems: 'center'
+    alignItems: 'center',
+    backgroundColor: '#D6CADD',
   },
   title: {
     marginVertical: 40,

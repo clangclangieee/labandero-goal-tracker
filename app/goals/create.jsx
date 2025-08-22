@@ -34,20 +34,21 @@ const styles = StyleSheet.create({
     flex: 1,
     alignItems: 'center',
     justifyContent: 'center',
+    backgroundColor: '#D6CADD',
   },
   title: {
     fontSize: 24,
   },
   input: {
     width: 300,
-    backgroundColor: 'white',
+    backgroundColor: '#BE93E4',
     padding: 20,
     borderRadius: 8,
     marginVertical: 40,
   },
   button: {
     padding: 18,
-    backgroundColor: '#21cc8d',
+    backgroundColor: '#BE93E4',
     color: 'white',
     borderRadius: 8,
   }
