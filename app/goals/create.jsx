@@ -15,7 +15,7 @@ const Create = () => {
 
       <TextInput
         style={styles.input}
-        placeholder="What do you want to do?"
+        placeholder="Whachadu?"
         value={goal}
         onChangeText={setGoal}
       />
